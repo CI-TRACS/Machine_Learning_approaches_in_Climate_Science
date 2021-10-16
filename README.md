@@ -4,6 +4,19 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
+## Workshop Title: Machine Learning approaches in Climate Science
+
+## Synopsis: Machine Learning Techniques for spatial and temporal climate data
+
+## Learning Outcomes:
+Select, apply, and evaluate ML models. Describe data, models, and modeling assumptions
+
+## CI Tools:
+Open OnDemand, 
+GPU computing
+Scikit-Learn
+Tensorflow
+
 ## Contributing
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
