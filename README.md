@@ -16,7 +16,10 @@ Part 2 will expand on the initial time series into a whole set of geospatial inf
 - Scikit Learn and Keras 
 - Matplotlib
 
-
+## Prerequsites
+- Background in Python and coding in general. Familiarity with Pandas, NETCDF4, and matplotlib is preferred. 
+- An account on the UH HPC, MANA
+- Tensorflow installed on your personal computer if you do not have access to the cluster.
 
 ## Contributing
 
