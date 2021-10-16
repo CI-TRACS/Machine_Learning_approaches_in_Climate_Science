@@ -1,21 +1,13 @@
-# FIXME Lesson title
+# Machine Learning in Climate Change 
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+Welcome to Machine Learning in Climate Change! The goals of this lesson are introduce you to the basics of ScikitLearn, Keras, and Tensorflow on High Processing Computers. We're approaching this lesson in two parts: 
+  - Part 1: Simple Time Series Prediction Using Long-Short-Term-Memory Techniques, and 
+  - Part 2: Using Time Series Prediction on Geospatial Data 
 
-This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
+## Part 1 
 
-## Workshop Title: Machine Learning approaches in Climate Science
 
-## Synopsis: Machine Learning Techniques for spatial and temporal climate data
 
-## Learning Outcomes:
-Select, apply, and evaluate ML models. Describe data, models, and modeling assumptions
-
-## CI Tools:
-Open OnDemand, 
-GPU computing
-Scikit-Learn
-Tensorflow
 
 ## Contributing
 
