@@ -6,7 +6,6 @@ Welcome to Machine Learning in Climate Change! The goals of this lesson are intr
 
 ## Part 1 
 Part 1 will focus on using a singular time-series of sea surface temperatures (SST) from NOAA buoy data, found here (insert link here). After this, you'll be provided quick scripts to prepare the data for processing, and begin creating your machine learning script. The Python skills and packages can be found here:
-- Pandas Libary (scrubbing the data)
 - Scikit Learn and Keras (for the machine learning) 
 - Matplotlib (to plot your timeseries) 
 
