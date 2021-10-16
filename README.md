@@ -38,9 +38,9 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are 
 
-* Peter Sadowski
-* Katie
-* Mingyue
+* Peter Sadowski, PhD, UH Manoa Dept of Computer Sciences
+* Katie Ackerman, UH Manoa Dept of Atmospheric Sciences
+* Mingyue Tang, UH Manoa Dept of Atmospheric Sciences
 
 
 ## Authors
