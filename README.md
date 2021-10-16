@@ -16,6 +16,15 @@ Part 2 will expand on the initial time series into a whole set of geospatial inf
 - Scikit Learn and Keras 
 - Matplotlib
 
+## Learning Outcomes:
+Select, apply, and evaluate ML models. Describe data, models, and modeling assumptions
+
+## CI Tools:
+Open OnDemand, 
+GPU computing
+Scikit-Learn
+Tensorflow
+
 ## Prerequsites
 - Background in Python and coding in general. Familiarity with Pandas, NETCDF4, and matplotlib is preferred. 
 - An account on the UH HPC, MANA
