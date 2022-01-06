@@ -1,4 +1,4 @@
-# Machine Learning in Climate Change 
+# Machine Learning in Climate Change - 02/25/2022
 
 Welcome to Machine Learning in Climate Change! The goals of this lesson are introduce you to the basics of ScikitLearn, Keras, and Tensorflow on High Processing Computers within the Python. We're approaching this lesson in two parts: 
   - Part 1: Simple Time Series Prediction Using Long-Short-Term-Memory Techniques, and 
