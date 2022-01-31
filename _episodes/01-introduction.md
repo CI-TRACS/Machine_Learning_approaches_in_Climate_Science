@@ -1,5 +1,5 @@
 ---
-title: "Climate", "Obstacles to Climate Prediction"
+title: "Climate"
 teaching: 5
 exercises: 0
 questions:
