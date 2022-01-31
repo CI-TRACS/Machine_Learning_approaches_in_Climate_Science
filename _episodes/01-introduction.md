@@ -1,15 +1,23 @@
 ---
-title: "Introduction"
+title: "Climate"
 teaching: 5
-exercises: 5
+exercises: 0
 questions:
-- 
+- "What is Climate Science?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Establish the main problems in climate science"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Climate Science is the study of long-term weather patterns"
 ---
-FIXME
+title: ""
+teaching: 5
+exercises: 0
+questions:
+- "What is Climate Science?"
+objectives:
+- "Establish the main problems in climate science"
+keypoints:
+- "Climate Science is the study of long-term weather patterns"
 
 {% include links.md %}
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUIlFg4bdk5dQatek4pMnC1jIhJj9mqG)
