@@ -8,4 +8,4 @@
 | Machine Learning in Climate: Data Processing | 5 mins | 5 mins | Best methods of data processing? | Dealing with missing data, outliers, time scale variability|
 | Machine Learning in Climate: LSTM Models | 15 mins | 15 mins | What is a Long-Short Term Model? How can we use this for time-series analysis?| Using buoy data within the ENSO 3.4 index, we'll train, test, and then assess an LSTM model |
 
-
+{% include links.md %}
