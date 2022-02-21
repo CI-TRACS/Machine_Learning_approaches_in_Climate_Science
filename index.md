@@ -3,7 +3,7 @@ layout: lesson
 root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-In this workshop, discussions will include an introduction to scientific gateways and workflows. Attendees will learn how gateways and workflows may benefit their research and about some existing gateways that may be suitable for their scientific interests. For the hands-on portion, attendees will access and use HydroShare, a gateway built for water-resource sciences. Activities will include navigating HydroShare and its available tools and web apps and creating a data resource which can be used for collaboration with others in the scientific community. Attendees will also use an existing workflow to perform computational tasks on some data to demonstrate the ease and benefits of using community-developed tools for data analysis. 
+Welcome to the Machine Learning Approaches in Climate Science Workshop! This workshop is aimed at doing several things, including explaining what climate science is, and the obstacles that come to modeling climate, as well as introducing some basic-yet-powerful machine learning methods that can aid in accelerating our understanding of climate science. 
 
 
 > ## Prerequisites
