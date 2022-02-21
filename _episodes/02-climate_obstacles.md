@@ -12,7 +12,9 @@ questions:
 objectives:
 - "Understand the complications of climate predictions in order to better prepare our models"
 keypoints:
-- ""
+- "ADD THE KEYPOINTS HERE"
 
 
 ---
+
+{% include links.md %}
