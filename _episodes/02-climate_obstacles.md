@@ -1,4 +1,3 @@
-
 ---
 title: "Obstacles to Climate Science and Prediction"
 teaching: 10
