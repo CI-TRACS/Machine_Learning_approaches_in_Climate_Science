@@ -21,7 +21,6 @@ By the end of this workshop, students will:
 * Have a step-by-step guide for a basic LSTM Model and it's application to climate data
 
 
-
 > ## Getting Started
 >
 > To get started, follow the directions in the "[Setup](
