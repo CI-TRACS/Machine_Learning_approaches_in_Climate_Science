@@ -1,3 +1,22 @@
+---
+title: "Overview to Workshop and Introduction to Climate Science"
+teaching: 10
+exercises: 0
+topics:
+- "Motivation" 
+- "Introduction to Climate Science"
+- "Current Methods of Understanding Climate Science"
+questions: 
+- "What is a Climate Science?"
+- "What is climate vs. weather?"
+objectives:
+- "Understand the current advancements and limitations of climate research"
+keypoints:
+- "Climate science is largely limited by the minimal data collected on timescales necessary to assess long-scale patterns."
+- "Understanding and prediction of climate is very computationally expensive and still very limited."
+
+---
+
 | Lesson        | Teaching | Lesson | Main Questions                  | Objectives                       |
 | -----------   | -------- |------- |-------------------------------- |--------------------------------- |
 | Machine Learning | X mins | 0 mins | What is machine learning? What are some powerful applications of these tools? | Establish background context for machine learning models| 
