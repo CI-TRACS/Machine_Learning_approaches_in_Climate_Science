@@ -40,7 +40,7 @@ keypoints:
 <a href="{{ page.root }}/fig/01climatevsweather.jpg">
  <img src="{{ page.root }}/fig/01climatevsweather.jpg"/>
 </a>
-(Source: Australian Climate Education Office, https://www.australianenvironmentaleducation.com.au/education-resources/climate-vs-weather/) 
+(Source: Australian Climate Education Office) 
 
 ---
 ## What are current methods we use to understand climate? 
@@ -48,12 +48,12 @@ keypoints:
 <a href="{{ page.root }}/fig/01c_climatestatistics.png">
  <img src="{{ page.root }}/fig/01c_cliamtestatistics.png"/>
 </a>
-(Source: NOAA, https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) 
+(Source: NOAA) 
 
 <a href="{{ page.root }}/fig/01d_oceantemps.png">
  <img src="{{ page.root }}/fig/01d_oceantemps.png"/>
 </a>
-(Source: NOAA, https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) 
+(Source: Statista) 
 
 
 - Climate Models: 
@@ -61,35 +61,16 @@ keypoints:
  <img src="{{ page.root }}/fig/01b_gpawg-climate-earth-systems-models.png"/>
 </a>
 (Image courtesy of Paul Ullrich, University of California, Davis) 
-Climate models are complex 
 
-> ## Benefits of these methods
->
-> 
-> - 
-> - 
-> - 
-> 
-> These benefits save the researcher the time otherwise needed to learn a programming language.
-> 
-{: .callout}
-
-> ## Drawbacks of these methods
->
-> 
-> - 
-> - 
-> - 
-> 
-> These benefits save the researcher the time otherwise needed to learn a programming language.
-> 
 {: .callout}
 
 
 
 
 Citations
--
--  https://www.rsc.org/images/Arrhenius1896_tcm18-173546.pdf
+- Figure 1: https://www.australianenvironmentaleducation.com.au/education-resources/climate-vs-weather/
+- Figure 2: https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature
+- Figure 3: https://www.statista.com/chart/19418/divergence-of-ocean-temperatures-from-20th-century-average/
+- Figure 4: Image courtesy of Paul Ullrich, University of California, Davis
 
 {% include links.md %}
