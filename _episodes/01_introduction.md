@@ -41,9 +41,27 @@ keypoints:
  <img src="{{ page.root }}/fig/01climatevsweather.jpg"/>
 </a>
 (Source: Australian Climate Education Office, https://www.australianenvironmentaleducation.com.au/education-resources/climate-vs-weather/) 
+
+---
 ## What are current methods we use to understand climate? 
+- Observations and Statistical Trends: 
+<a href="{{ page.root }}/fig/01c_climatestatistics.png">
+ <img src="{{ page.root }}/fig/01c_cliamtestatistics.png"/>
+</a>
+(Source: NOAA, https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) 
+
+<a href="{{ page.root }}/fig/01d_oceantemps.png">
+ <img src="{{ page.root }}/fig/01d_oceantemps.png"/>
+</a>
+(Source: NOAA, https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature) 
 
 
+- Climate Models: 
+<a href="{{ page.root }}/fig/01b_gpawg-climate-earth-systems-models.png">
+ <img src="{{ page.root }}/fig/01b_gpawg-climate-earth-systems-models.png"/>
+</a>
+(Image courtesy of Paul Ullrich, University of California, Davis) 
+Climate models are complex 
 
 > ## Benefits of these methods
 >
