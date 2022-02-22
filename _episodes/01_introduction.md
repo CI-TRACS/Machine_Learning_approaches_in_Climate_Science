@@ -37,6 +37,10 @@ keypoints:
 
 
 
+<a href="{{ page.root }}/fig/01climatevsweather.jpg">
+ <img src="{{ page.root }}/fig/01climatevsweather.jpg"/>
+</a>
+
 ## What are current methods we use to understand climate? 
 
 
