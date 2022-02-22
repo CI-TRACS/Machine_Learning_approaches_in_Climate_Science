@@ -29,6 +29,9 @@ keypoints:
 
 ---
 
+{% include links.md %}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUIlFg4bdk5dQatek4pMnC1jIhJj9mqG)
+
 ## Motivation
 "Climate change" is the phrase of the decade, and is rapidly shaping the future of humanity. But what is climate, say, versus weather? And how are they connected? Weather is the state of the atmosphere at a place and time with regards heat, dryness, sunshine, wind, rain, and other conditions. Weather describes the immediate state of these conditions, or the state of the atmosphere at a specific place and time. For example, today's weather (02/25/22) is supposed to have a high of 80 degrees F, around 60% relative humidity, scattered cumulus clouds and a minimal chance of rain. Climate, on the other hand, is the long-term description of typically a more broad region. Climate describes the generalized patterns experienced over a larger geographic region. Hawaii's climate, for example, is around 85 degrees F with scattered trade-wind rain showers in the summer time, and around 75 degrees F with broader, more less weaker trade winds and more substantial rain in the winter. Climate does not describe every day perfectly, however. 
 
