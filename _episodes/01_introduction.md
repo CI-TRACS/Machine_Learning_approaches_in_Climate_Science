@@ -40,7 +40,7 @@ keypoints:
 <a href="{{ page.root }}/fig/01climatevsweather.jpg">
  <img src="{{ page.root }}/fig/01climatevsweather.jpg"/>
 </a>
-
+(Source: Australian Climate Education Office, https://www.australianenvironmentaleducation.com.au/education-resources/climate-vs-weather/) 
 ## What are current methods we use to understand climate? 
 
 
@@ -71,6 +71,7 @@ keypoints:
 
 
 Citations
-- https://www.rsc.org/images/Arrhenius1896_tcm18-173546.pdf
+-
+-  https://www.rsc.org/images/Arrhenius1896_tcm18-173546.pdf
 
 {% include links.md %}
