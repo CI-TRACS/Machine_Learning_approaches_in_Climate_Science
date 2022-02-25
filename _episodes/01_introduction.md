@@ -36,15 +36,18 @@ Machine learning tools are increasingly important for modeling data in climate s
 ### Downscaling
 Predictions of future weather and climate rely on simulations of the Earth's atmosphere on a global scale. Despite being run on the world's largest supercomputers, these simulations are still crude approximations. Machine learning can help predict future (or historical) climate (or weather) through a method called statistical downscaling. In climate science, "downscaling" refers to _increasing_ the resolution of data, either in the spatial and/or temporal dimensions. Think of taking a blurry low-resolution image and enhancing it to get a higher-resolution image. In machine learning this is known as "super-resolution"; in climate science it is called downscaling.
 
-There are two main appraoches to downscaling: dynamical and statistical. Dynamical downscaling will not be discussed today --- it relies on physics simulations. Statistical downscaling uses data-driven models to predict high-resolution data from low-resolution data. For example, we can train a machine learning model that ingests course-grained weather forecasts and predicts minute-by-minute forecasts specific location; the example below demonstrates this method used to for day-ahead forecasts of hourly solar-irradiance for Kona Hawaii. 
+There are two main appraoches to downscaling: dynamical and statistical. Dynamical downscaling will not be discussed today --- it relies on physics simulations. Statistical downscaling uses data-driven models to predict high-resolution data from low-resolution data. For example, we can train a machine learning model that ingests course-grained weather forecasts and predicts minute-by-minute forecasts specific location; the example below demonstrates this method used to for day-ahead forecasts of hourly solar-irradiance for Kona Hawaii.
 
-<a href="{{ page.root }}/fig/solar_forecast_kona.png">
-<img src="{{ page.root }}/fig/solar_forecast_kona.png"/>
+<a href="{{ page.root }}/fig/01solar_forecast_kona.png">
+<img src="{{ page.root }}/fig/01solar_forecast_kona.png"/>
 </a>
 
-### Emulation
-The simulations used to predict weather and climate rely on physics models to predict how the atmosphere will evolve with each small time step. 
+We can apply the same approach on a climatological scale to predict average temperatures and rainfall on the Hawaiian islands under different climate change scenarios. To train these models, we combine historical observations of these variables with low-resolution model outputs. The first part of this tutorial will demonstrate the statistical downscaling approach in detail.
 
+### Emulation
+The simulations used to predict weather and climate rely on physics models to predict how the atmosphere will evolve over many small time steps. To increase the simulation's accuracy, one requires an increase in spatiotemporal resolution of the simulations, and thus additional computation. An alternative approach is to use machine learning as a fast approximation to these simulations, where we use a statistal model to predict the state of the atmosphere at the next time step. Such a model can be trained on simulation, and can learn to _emulate_ the physics model (it is also known as a _surrogate_ model). It is possible for the machine learning emulator to be much faster than the physics-based simulations while still being accurate, because it can learn emergent patterns in the data. 
+
+This approach can be used to emulate both weather and climate simulations. In the second part of the tutorial, we demonstrate how to used this approach to predict month-ahead sea surface temperature. 
 
 
 {% include links.md %}
