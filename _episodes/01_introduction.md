@@ -53,14 +53,20 @@ The simulations used to predict weather and climate rely on physics models to pr
 
 This approach can be used to emulate both weather and climate simulations. In the second part of the tutorial, we demonstrate how to used this approach to predict month-ahead sea surface temperature. 
 
+## Part 1: Downscaling Tutorial
+
+Open the following notebook on Google Colab. You can also run the notebook on your own local machine running or HPC account running Jupyter, but the notebook requires the Tensorflow package so we recommend using Colab if you don't already have this installed.
 
 {% include links.md %}
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUIlFg4bdk5dQatek4pMnC1jIhJj9mqG?usp=sharing)
 
-## Motivation
-"Climate change" is the phrase of the decade, and is rapidly shaping the future of humanity. But what is climate, say, versus weather? And how are they connected? Weather is the state of the atmosphere at a place and time with regards heat, dryness, sunshine, wind, rain, and other conditions. Weather describes the immediate state of these conditions, or the state of the atmosphere at a specific place and time. For example, today's weather (02/25/22) is supposed to have a high of 80 degrees F, around 60% relative humidity, scattered cumulus clouds and a minimal chance of rain. Climate, on the other hand, is the long-term description of typically a more broad region. Climate describes the generalized patterns experienced over a larger geographic region. Hawaii's climate, for example, is around 85 degrees F with scattered trade-wind rain showers in the summer time, and around 75 degrees F with broader, more less weaker trade winds and more substantial rain in the winter. Climate does not describe every day perfectly, however. 
+## Part 2: Emulator Tutorial
 
-## What is Climate Science?
+{% include links.md %}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUIlFg4bdk5dQatek4pMnC1jIhJj9mqG?usp=sharing)
+
+## More info: What is Climate Science?
+"Climate change" is the phrase of the decade, and is rapidly shaping the future of humanity. But what is climate, say, versus weather? And how are they connected? Weather is the state of the atmosphere at a place and time with regards heat, dryness, sunshine, wind, rain, and other conditions. Weather describes the immediate state of these conditions, or the state of the atmosphere at a specific place and time. For example, today's weather (02/25/22) is supposed to have a high of 80 degrees F, around 60% relative humidity, scattered cumulus clouds and a minimal chance of rain. Climate, on the other hand, is the long-term description of typically a more broad region. Climate describes the generalized patterns experienced over a larger geographic region. Hawaii's climate, for example, is around 85 degrees F with scattered trade-wind rain showers in the summer time, and around 75 degrees F with broader, more less weaker trade winds and more substantial rain in the winter. Climate does not describe every day perfectly, however. 
 
 Climate science, therefore, is not the study of individual weather events, but the study of long-term patterns and changes of patterns in weather and atmospheric conditions. Typically, climate science refers to the study of global climate and how the world as a whole is changing, however, climate scientists can often have specific regions of study as well. When we refer to climate change, we assess how the long term patterns across the world are changing compared to typical, historical values. Climate change can be described as changes in average seasonal temperatures to changes in precipitation, changes in sea ice coverage, changes in cloud coverage, etc. Anything large geographic and time scale change with relation to weather can be described as climate change if there is long term data to support the identified changes. 
 
