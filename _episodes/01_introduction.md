@@ -62,6 +62,8 @@ Open the following notebook on Google Colab. You can also run the notebook on yo
 
 ## Part 2: Emulator Tutorial
 
+The following tutorial is a simplified version of the work presented in the 2020 AAAI workshop paper, <a href="https://par.nsf.gov/servlets/purl/10273992">Nikolev+, Deep Learning for Climate Models of the Atlantic Ocean</a>.
+
 {% include links.md %}
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AUIlFg4bdk5dQatek4pMnC1jIhJj9mqG?usp=sharing)
 
