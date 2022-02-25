@@ -78,27 +78,7 @@ One of the most important concepts of cliamte science is that singular weather e
 </a>
 (Source: Australian Climate Education Office) 
 
----
-## What are current methods we use to understand climate? 
-- Observations and Statistical Trends: 
-<a href="{{ page.root }}/fig/01c_climatestatistics.png">
- <img src="{{ page.root }}/fig/01c_cliamtestatistics.png"/>
-</a>
-(Source: NOAA) 
 
-<a href="{{ page.root }}/fig/01d_oceantemps.png">
- <img src="{{ page.root }}/fig/01d_oceantemps.png"/>
-</a>
-(Source: Statista) 
-
-
-- Climate Models: 
-<a href="{{ page.root }}/fig/01b_gpawg-climate-earth-systems-models.png">
- <img src="{{ page.root }}/fig/01b_gpawg-climate-earth-systems-models.png"/>
-</a>
-(Image courtesy of Paul Ullrich, University of California, Davis) 
-
-{: .callout}
 
 
 
