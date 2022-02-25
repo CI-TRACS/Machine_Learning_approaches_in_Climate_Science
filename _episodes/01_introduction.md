@@ -38,6 +38,10 @@ Predictions of future weather and climate rely on simulations of the Earth's atm
 
 There are two main appraoches to downscaling: dynamical and statistical. Dynamical downscaling will not be discussed today --- it relies on physics simulations. Statistical downscaling uses data-driven models to predict high-resolution data from low-resolution data. For example, we can train a machine learning model that ingests course-grained weather forecasts and predicts minute-by-minute forecasts specific location; the example below demonstrates this method used to for day-ahead forecasts of hourly solar-irradiance for Kona Hawaii.
 
+<a href="{{ page.root }}/fig/01gfs_hawaii.png">
+<img src="{{ page.root }}/fig/01gfs_hawaii.png"/>
+</a>
+
 <a href="{{ page.root }}/fig/01solar_forecast_kona.png">
 <img src="{{ page.root }}/fig/01solar_forecast_kona.png"/>
 </a>
