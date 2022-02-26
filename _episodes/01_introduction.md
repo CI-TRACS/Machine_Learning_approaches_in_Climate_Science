@@ -65,7 +65,7 @@ Open the following notebook on Google Colab. You can also run the notebook on yo
 The following tutorial is a simplified version of the work presented in the 2020 AAAI workshop paper, <a href="https://par.nsf.gov/servlets/purl/10273992">Nikolev+, Deep Learning for Climate Models of the Atlantic Ocean</a>. You will train a convolutional neural network to emulate a climate simulation model called the Canadian Earth System Model, and use it to forecast Sea Surface Temperature 1-6 months in advance. 
 
 {% include links.md %}
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fzc3lrkVSdhhkRAmwG82hjZbzQRbQhLy)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fzc3lrkVSdhhkRAmwG82hjZbzQRbQhLy?usp=sharing)
 
 The notebook requires two files. Download these files from google drive, then upload to colab:
 1. <a href="https://drive.google.com/file/d/1bj-VaV_zEQT0psvDE-GlKMFPwjfod8Ax/view?usp=sharing">dataset.py</a>
